@@ -90,6 +90,6 @@ Un acondicionador de señal ayuda a obtener medidas precisas, como condición es
 Desarrollado por 
 Ing. Miguel De Jesus Montesinos Molina 
 
-[github].(https://github.com/MiguelMontesinos/INVESTIGACION-/blob/main/README.md).
+.[GitHub].(https://github.com/MiguelMontesinos/INVESTIGACION-/blob/main/README.md).
 
 
