@@ -87,6 +87,9 @@ Un acondicionador de señal ayuda a obtener medidas precisas, como condición es
 
 **Acondicionadores de señales digitales: Convierten la salida de la señal en un formato digital, como RS232, RS485 o Ethernet-**
 
+Desarrollado por 
+Ing. Miguel De Jesus Montesinos Molina 
+
 
 
 
