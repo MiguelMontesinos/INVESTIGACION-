@@ -14,7 +14,7 @@ Todo el proceso de adquisición de datos comienza con el sensor, el cual es un a
 Las tarjetas de adquisición de datos (hardware) actúan como la interfaz entre una computadora y señales físicas, es decir, la información recaudada por el sensor se pasa al DAQ, el cual se encarga de transformar los códigos del mundo real a los códigos digitales, como si se tratara de un intérprete que traduce de un lenguaje a otro, con el fin de que el sistema digital (es decir, cualquier computadora o dispositivo electrónico) sea capaz de comprender los signos del analógico.
 Las tarjetas de adquisición de datos consisten en tres partes principales: por un lado, está el circuito de acondicionamiento de señales, después está el convertidor analógico-digital (ADC por sus siglas en inglés) y, finalmente, el bus del ordenador.
 
-**+¿Qué es un HMI?**
+**¿Qué es un HMI?**
 
 HMI son las siglas de human-machine interface y se refieren a un panel que permite a un usuario comunicarse con una máquina, software o sistema. Técnicamente, se puede referir a cualquier pantalla que se use para interactuar con un equipo, pero se utiliza normalmente para las de entornos industriales. Las HMI muestran datos en tiempo real y permiten al usuario controlar las máquinas con una interfaz gráfica de usuario.
 En un entorno industrial una HMI puede tener distintas formas. Puede ser una pantalla independiente, un panel acoplado a otro equipo o una tablet. Da igual su aspecto; su uso principal es permitir a los usuarios visualizar los datos operativos y controlar las máquinas. Los operarios pueden usar una HMI para, p. ej., ver qué cintas transportadoras están encendidas o ajustar la temperatura de un depósito de agua industrial.
@@ -42,8 +42,8 @@ Existe una amplia gama de sensores utilizados en la vida diaria, que se clasific
 
 **Los diferentes sensores que existen** 
 
-•	Sensores de temperatura: Se pueden medir con termistores o termopar. 
-•	Sensores de presión: Se pueden medir la presión de un fluido o gas en un sistema. 
+Sensores de temperatura: Se pueden medir con termistores o termopar. 
+Sensores de presión: Se pueden medir la presión de un fluido o gas en un sistema. 
 •	Sensores de humedad: Se miden la cantidad de humedad en el aire, el suelo o cualquier otro ambiente. 
 •	Sensores de movimiento: Detectan la presencia o el movimiento de objetos en su campo de visión. 
 •	Sensores de posición: Se pueden clasificar como absolutos o incrementales. 
