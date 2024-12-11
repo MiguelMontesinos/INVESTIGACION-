@@ -74,11 +74,17 @@ El acondicionamiento de señal es un proceso de adquisición de datos que se lle
 Un acondicionador de señal ayuda a obtener medidas precisas, como condición esencial para la exactitud de la adquisición de datos o del control de máquinas. Este tipo de instrumentos son capaces de efectuar otras funciones adicionales.
 
 ## Existen diferentes tipos de acondicionadores de señal, que se clasifican según el tipo de señal que procesan: 
+
 **Tipo alto voltaje: Se utiliza para señales de kilo volts y con sensores transductores potenciométricos.** 
+
 **Tipo termopar: Se utiliza para señales de temperatura y con sensores termopar.** 
+
 **Tipo RTD: Se utiliza para señales de temperatura y con sensores RTD.** 
+
 **Tipo IEPE: Se utiliza para señales de shock y vibración y con sensores acelerómetro IEPE.** 
+
 **Acondicionadores de señal LVDT o RVDT: Se utilizan con semipuentes VR, RVDT y LVDT de CA para proporcionar voltaje, corriente o salidas digitales de CC.** 
+
 **Acondicionadores de señales digitales: Convierten la salida de la señal en un formato digital, como RS232, RS485 o Ethernet-**
 
 
