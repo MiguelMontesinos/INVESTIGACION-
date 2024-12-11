@@ -42,19 +42,19 @@ Existe una amplia gama de sensores utilizados en la vida diaria, que se clasific
 
 **Los diferentes sensores que existen** 
 
-Sensores de temperatura: Se pueden medir con termistores o termopar. 
-Sensores de presión: Se pueden medir la presión de un fluido o gas en un sistema. 
-•	Sensores de humedad: Se miden la cantidad de humedad en el aire, el suelo o cualquier otro ambiente. 
-•	Sensores de movimiento: Detectan la presencia o el movimiento de objetos en su campo de visión. 
-•	Sensores de posición: Se pueden clasificar como absolutos o incrementales. 
-•	Sensores de proximidad: Son un tipo de sensor de posición lineal y angular. 
-•	Sensores de corriente eléctrica: Son un tipo de sensor. 
-•	Sensores magnéticos: Son un tipo de sensor. 
-•	Sensores de radio: Son un tipo de sensor. 
-•	Sensores de velocidad o flujo de fluidos: Son un tipo de sensor. 
-•	Sensores ópticos: Son un tipo de sensor. 
-•	Sensores ambientales: Son un tipo de sensor. 
-•	Sensores químicos: Son un tipo de sensor.
+**Sensores de temperatura: Se pueden medir con termistores o termopar.** 
+**Sensores de presión: Se pueden medir la presión de un fluido o gas en un sistema.** 
+**Sensores de humedad: Se miden la cantidad de humedad en el aire, el suelo o cualquier otro ambiente.** 
+**Sensores de movimiento: Detectan la presencia o el movimiento de objetos en su campo de visión.**
+**Sensores de posición: Se pueden clasificar como absolutos o incrementales.** 
+**Sensores de proximidad: Son un tipo de sensor de posición lineal y angular.** 
+**Sensores de corriente eléctrica: Son un tipo de sensor.** 
+**Sensores magnéticos: Son un tipo de sensor.** 
+**Sensores de radio: Son un tipo de sensor.** 
+**Sensores de velocidad o flujo de fluidos: Son un tipo de sensor.** 
+**Sensores ópticos: Son un tipo de sensor.** 
+**Sensores ambientales: Son un tipo de sensor.** 
+**Sensores químicos: Son un tipo de sensor.**
 
 **¿Qué es un acondicionador de señal? Y sus diferentes tipos**
 
