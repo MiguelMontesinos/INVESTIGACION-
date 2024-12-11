@@ -2,7 +2,7 @@
 
 
 
-##¿Qué es una tarjeta de adquisición de datos?
+## ¿Qué es una tarjeta de adquisición de datos?
 
 Los sistemas de adquisición de datos, como el nombre dan a entender, son productos o procesos que se usan para recoger información para documentar o analizar un fenómeno. En su forma más sencilla, un técnico que registra la temperatura de un horno en un papel está ejecutando adquisición de datos.
 
