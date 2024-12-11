@@ -1,14 +1,8 @@
 # INVESTIGACION-
 
- **Índice**
 
-- ¿Qué es una tarjeta de adquisición de datos?
-2 ¿Qué es un HMI?
-3 Elementos de un sistema de adquisición 
-4 Los diferentes sensores que existen y ¿Qué es un sensor?
-5 ¿Qué es un acondicionador de señal? Y sus diferentes tipos 
 
-¿Qué es una tarjeta de adquisición de datos?
+#¿Qué es una tarjeta de adquisición de datos?
 
 Los sistemas de adquisición de datos, como el nombre dan a entender, son productos o procesos que se usan para recoger información para documentar o analizar un fenómeno. En su forma más sencilla, un técnico que registra la temperatura de un horno en un papel está ejecutando adquisición de datos.
 
