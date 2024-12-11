@@ -14,13 +14,13 @@ Todo el proceso de adquisición de datos comienza con el sensor, el cual es un a
 Las tarjetas de adquisición de datos (hardware) actúan como la interfaz entre una computadora y señales físicas, es decir, la información recaudada por el sensor se pasa al DAQ, el cual se encarga de transformar los códigos del mundo real a los códigos digitales, como si se tratara de un intérprete que traduce de un lenguaje a otro, con el fin de que el sistema digital (es decir, cualquier computadora o dispositivo electrónico) sea capaz de comprender los signos del analógico.
 Las tarjetas de adquisición de datos consisten en tres partes principales: por un lado, está el circuito de acondicionamiento de señales, después está el convertidor analógico-digital (ADC por sus siglas en inglés) y, finalmente, el bus del ordenador.
 
-**¿Qué es un HMI?**
+##¿Qué es un HMI?
 
 HMI son las siglas de human-machine interface y se refieren a un panel que permite a un usuario comunicarse con una máquina, software o sistema. Técnicamente, se puede referir a cualquier pantalla que se use para interactuar con un equipo, pero se utiliza normalmente para las de entornos industriales. Las HMI muestran datos en tiempo real y permiten al usuario controlar las máquinas con una interfaz gráfica de usuario.
 En un entorno industrial una HMI puede tener distintas formas. Puede ser una pantalla independiente, un panel acoplado a otro equipo o una tablet. Da igual su aspecto; su uso principal es permitir a los usuarios visualizar los datos operativos y controlar las máquinas. Los operarios pueden usar una HMI para, p. ej., ver qué cintas transportadoras están encendidas o ajustar la temperatura de un depósito de agua industrial.
 La HMI se utiliza en una amplia gama de sectores. Es común en la fabricación de distintos productos, desde automóviles a comida y bebidas pasando por medicinas. Industrias como la de la energía, el agua, las aguas residuales, los edificios y el transporte también pueden usar HMI. Cargos como los integradores de sistemas, operarios e ingenieros y, en especial, los ingenieros de sistemas de control de procesos usan frecuentemente HMI para controlar máquinas, vehículos, plantas o edificios.
 
-**Elementos de un sistema de adquisición**
+##Elementos de un sistema de adquisición
 
 Cuando hablamos de adquisición de datos, comúnmente abreviado como DAQ o DAS, nos referimos al proceso de realizar mediciones de fenómenos físicos y registrarlos de alguna manera para analizarlos.
 En general, se acepta que la adquisición de datos es distinta de las formas anteriores de grabación en cinta o gráficos de papel.
